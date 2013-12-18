@@ -1,6 +1,6 @@
 {
   "name": "c3d2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Droid factory - bootstrap a HTML5 android application quickly using a phonegap template",
   "main": "src/index.js",
   "bin": {
