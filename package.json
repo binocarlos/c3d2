@@ -1,0 +1,36 @@
+{
+  "name": "c3d2",
+  "version": "0.0.1",
+  "description": "Droid factory - bootstrap a HTML5 android application quickly using a phonegap template",
+  "main": "src/index.js",
+  "bin": {
+    "c3d2": "./bin/c3d2.js"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/c3d2.git"
+  },
+  "keywords": [
+    "phonegap",
+    "bootstrap"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/c3d2/issues"
+  },
+  "dependencies": {
+    "commander": "~2.1.0",
+    "ejs": "~0.8.5",
+    "async": "~0.2.9",
+    "cli-prompt": "~0.3.2",
+    "wrench": "~1.5.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "should": "~2.1.0"
+  }
+}
